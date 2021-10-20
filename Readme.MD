@@ -5,7 +5,7 @@
 # This is a <u><b>Crowd Funding</b></u> Ethereum smart contract .
 
 
-### How it works 👎
+### How it works
 
 <br>
 
